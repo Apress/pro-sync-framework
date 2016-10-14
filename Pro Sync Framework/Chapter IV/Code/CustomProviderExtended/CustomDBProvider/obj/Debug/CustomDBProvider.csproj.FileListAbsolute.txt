@@ -1,0 +1,22 @@
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomProvider\bin\Debug\CustomProvider.exe
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomProvider\bin\Debug\CustomProvider.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomProvider\bin\Debug\BaseSyncProvider.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomProvider\bin\Debug\BaseSyncProvider.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomProvider\obj\Debug\CustomProvider.DBSyncForm.resources
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomProvider\obj\Debug\CustomProvider.Properties.Resources.resources
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomProvider\obj\Debug\CustomProvider.ReplicaContent.resources
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomProvider\obj\Debug\CustomDBProvider.csproj.GenerateResource.Cache
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomProvider\obj\Debug\CustomProvider.exe
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomProvider\obj\Debug\CustomProvider.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomDBProvider\bin\Debug\CustomProvider.exe
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomDBProvider\bin\Debug\CustomProvider.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomDBProvider\bin\Debug\BaseSyncProvider.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomDBProvider\bin\Debug\BaseSyncProvider.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomDBProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomDBProvider\obj\Debug\CustomProvider.DBSyncForm.resources
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomDBProvider\obj\Debug\CustomProvider.Properties.Resources.resources
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomDBProvider\obj\Debug\CustomProvider.ReplicaContent.resources
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomDBProvider\obj\Debug\CustomDBProvider.csproj.GenerateResource.Cache
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomDBProvider\obj\Debug\CustomProvider.exe
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomDBProvider\obj\Debug\CustomProvider.pdb

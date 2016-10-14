@@ -1,0 +1,20 @@
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomFileProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomFileProvider\obj\Debug\CustomFileProvider.FileSyncForm.resources
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomFileProvider\obj\Debug\CustomFileProvider.Properties.Resources.resources
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomFileProvider\obj\Debug\CustomFileProvider.csproj.GenerateResource.Cache
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomFileProvider\bin\Debug\CustomFileProvider.exe
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomFileProvider\bin\Debug\CustomFileProvider.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomFileProvider\bin\Debug\BaseSyncProvider.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomFileProvider\bin\Debug\BaseSyncProvider.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomFileProvider\obj\Debug\CustomFileProvider.exe
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\CustomFileProvider\obj\Debug\CustomFileProvider.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomFileProvider\bin\Debug\CustomFileProvider.exe
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomFileProvider\bin\Debug\CustomFileProvider.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomFileProvider\bin\Debug\BaseSyncProvider.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomFileProvider\bin\Debug\BaseSyncProvider.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomFileProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomFileProvider\obj\Debug\CustomFileProvider.FileSyncForm.resources
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomFileProvider\obj\Debug\CustomFileProvider.Properties.Resources.resources
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomFileProvider\obj\Debug\CustomFileProvider.csproj.GenerateResource.Cache
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomFileProvider\obj\Debug\CustomFileProvider.exe
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\CustomFileProvider\obj\Debug\CustomFileProvider.pdb

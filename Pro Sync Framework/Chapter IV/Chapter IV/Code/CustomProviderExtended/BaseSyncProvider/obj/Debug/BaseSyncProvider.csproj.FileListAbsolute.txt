@@ -1,0 +1,10 @@
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\BaseSyncProvider\bin\Debug\BaseSyncProvider.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\BaseSyncProvider\bin\Debug\BaseSyncProvider.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\BaseSyncProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\BaseSyncProvider\obj\Debug\BaseSyncProvider.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\New Folder\CustomProvider\BaseSyncProvider\obj\Debug\BaseSyncProvider.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\BaseSyncProvider\bin\Debug\BaseSyncProvider.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\BaseSyncProvider\bin\Debug\BaseSyncProvider.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\BaseSyncProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\BaseSyncProvider\obj\Debug\BaseSyncProvider.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProviderExtended\BaseSyncProvider\obj\Debug\BaseSyncProvider.pdb

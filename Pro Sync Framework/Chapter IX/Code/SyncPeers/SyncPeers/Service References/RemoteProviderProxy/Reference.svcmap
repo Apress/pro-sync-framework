@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="658a65d4-d540-41cf-8531-d293b7a18aa0" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8731/RemoteProvider/RemotePeerSyncService/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="df0978a5-7792-4ac1-a853-c2de230265a3" SourceId="1" SourceUrl="http://localhost:8731/RemoteProvider/RemotePeerSyncService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="6f158926-db5a-45a6-8f6a-3ed03f0c44bf" SourceId="1" SourceUrl="http://localhost:8731/RemoteProvider/RemotePeerSyncService/mex" />
+    <MetadataFile FileName="Microsoft.Synchronization.xsd" MetadataType="Schema" ID="0d7f2f17-4b9f-4b8f-b4bf-8672f068a318" SourceId="1" SourceUrl="http://localhost:8731/RemoteProvider/RemotePeerSyncService/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="077df444-01a5-42a1-917f-8341e94ca5ef" SourceId="1" SourceUrl="http://localhost:8731/RemoteProvider/RemotePeerSyncService/mex" />
+    <MetadataFile FileName="Microsoft.Synchronization.Data.xsd" MetadataType="Schema" ID="13e22d62-2669-49a2-8126-8bb4703da4e2" SourceId="1" SourceUrl="http://localhost:8731/RemoteProvider/RemotePeerSyncService/mex" />
+    <MetadataFile FileName="service2.xsd" MetadataType="Schema" ID="47aa37a3-56f9-4054-a380-20178fefb8a4" SourceId="1" SourceUrl="http://localhost:8731/RemoteProvider/RemotePeerSyncService/mex" />
+    <MetadataFile FileName="System.Data.xsd" MetadataType="Schema" ID="961965b7-c091-4318-8bbd-3f4f5c88bcb9" SourceId="1" SourceUrl="http://localhost:8731/RemoteProvider/RemotePeerSyncService/mex" />
+    <MetadataFile FileName="service3.xsd" MetadataType="Schema" ID="c6d2b50a-6220-4311-aafa-cae1d17fa424" SourceId="1" SourceUrl="http://localhost:8731/RemoteProvider/RemotePeerSyncService/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

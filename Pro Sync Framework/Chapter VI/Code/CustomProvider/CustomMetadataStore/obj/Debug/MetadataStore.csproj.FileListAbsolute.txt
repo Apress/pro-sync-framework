@@ -1,0 +1,25 @@
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProvider\CustomMetadataStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProvider\CustomMetadataStore\obj\Debug\CustomMetadataStore.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProvider\CustomMetadataStore\obj\Debug\CustomMetadataStore.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProvider\CustomMetadataStore\bin\Debug\CustomMetadataStore.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter IV\Code\CustomProvider\CustomMetadataStore\bin\Debug\CustomMetadataStore.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\CustomProvider\CustomMetadataStore\bin\Debug\CustomMetadataStore.dll
+C:\Documents and Settings\rituraj.singh\Desktop\CustomProvider\CustomMetadataStore\bin\Debug\CustomMetadataStore.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\CustomProvider\CustomMetadataStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rituraj.singh\Desktop\CustomProvider\CustomMetadataStore\obj\Debug\CustomMetadataStore.dll
+C:\Documents and Settings\rituraj.singh\Desktop\CustomProvider\CustomMetadataStore\obj\Debug\CustomMetadataStore.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter VI\Code\CustomProvider\CustomMetadataStore\bin\Debug\CustomMetadataStore.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter VI\Code\CustomProvider\CustomMetadataStore\bin\Debug\CustomMetadataStore.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter VI\Code\CustomProvider\CustomMetadataStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter VI\Code\CustomProvider\CustomMetadataStore\obj\Debug\CustomMetadataStore.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter VI\Code\CustomProvider\CustomMetadataStore\obj\Debug\CustomMetadataStore.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Pro Sync Framework - Chapter 6\Code\CustomProvider\CustomMetadataStore\bin\Debug\CustomMetadataStore.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Pro Sync Framework - Chapter 6\Code\CustomProvider\CustomMetadataStore\bin\Debug\CustomMetadataStore.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Pro Sync Framework - Chapter 6\Code\CustomProvider\CustomMetadataStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rituraj.singh\Desktop\Pro Sync Framework - Chapter 6\Code\CustomProvider\CustomMetadataStore\obj\Debug\CustomMetadataStore.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Pro Sync Framework - Chapter 6\Code\CustomProvider\CustomMetadataStore\obj\Debug\CustomMetadataStore.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Chapter VI\Code\CustomProvider\CustomMetadataStore\bin\Debug\CustomMetadataStore.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Chapter VI\Code\CustomProvider\CustomMetadataStore\bin\Debug\CustomMetadataStore.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Chapter VI\Code\CustomProvider\CustomMetadataStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Chapter VI\Code\CustomProvider\CustomMetadataStore\obj\Debug\CustomMetadataStore.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Chapter VI\Code\CustomProvider\CustomMetadataStore\obj\Debug\CustomMetadataStore.pdb

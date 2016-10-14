@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.datacontract.org/2004/07/Microsoft.Synchronization" />
+  <xs:element name="BeginSession">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="BeginSessionResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetKnowledge">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetKnowledgeResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="batchSize" type="xs:unsignedInt" />
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/Microsoft.Synchronization" minOccurs="0" name="knowledge" nillable="true" type="q1:SyncKnowledge" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetChanges">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="batchSize" type="xs:unsignedInt" />
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/Microsoft.Synchronization" minOccurs="0" name="destinationKnowledge" nillable="true" type="q2:SyncKnowledge" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetChangesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/Microsoft.Synchronization" minOccurs="0" name="GetChangesResult" nillable="true" type="q3:ChangeBatch" />
+        <xs:element minOccurs="0" name="changeData" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ApplyChanges">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/Microsoft.Synchronization" minOccurs="0" name="resolutionPolicy" type="q4:ConflictResolutionPolicy" />
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/Microsoft.Synchronization" minOccurs="0" name="sourceChanges" nillable="true" type="q5:ChangeBatch" />
+        <xs:element minOccurs="0" name="changeData" nillable="true" type="xs:anyType" />
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/Microsoft.Synchronization" minOccurs="0" name="sessionStatistics" nillable="true" type="q6:SyncSessionStatistics" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ApplyChangesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/Microsoft.Synchronization" minOccurs="0" name="sessionStatistics" nillable="true" type="q7:SyncSessionStatistics" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="EndSession">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="EndSessionResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

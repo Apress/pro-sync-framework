@@ -1,0 +1,20 @@
+C:\Store\Articles\Chapter IX\Code\ExploreSyncAPI\QuoteClient\QuoteClient\bin\Debug\quoteenginedb.sdf
+C:\Store\Articles\Chapter IX\Code\ExploreSyncAPI\QuoteClient\QuoteClient\bin\Debug\QuoteClient.exe.config
+C:\Store\Articles\Chapter IX\Code\ExploreSyncAPI\QuoteClient\QuoteClient\bin\Debug\QuoteClient.exe
+C:\Store\Articles\Chapter IX\Code\ExploreSyncAPI\QuoteClient\QuoteClient\bin\Debug\QuoteClient.pdb
+C:\Store\Articles\Chapter IX\Code\ExploreSyncAPI\QuoteClient\QuoteClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Store\Articles\Chapter IX\Code\ExploreSyncAPI\QuoteClient\QuoteClient\obj\Debug\QuoteClient.Form1.resources
+C:\Store\Articles\Chapter IX\Code\ExploreSyncAPI\QuoteClient\QuoteClient\obj\Debug\QuoteClient.Properties.Resources.resources
+C:\Store\Articles\Chapter IX\Code\ExploreSyncAPI\QuoteClient\QuoteClient\obj\Debug\QuoteClient.csproj.GenerateResource.Cache
+C:\Store\Articles\Chapter IX\Code\ExploreSyncAPI\QuoteClient\QuoteClient\obj\Debug\QuoteClient.exe
+C:\Store\Articles\Chapter IX\Code\ExploreSyncAPI\QuoteClient\QuoteClient\obj\Debug\QuoteClient.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\QuoteClient\QuoteClient\bin\Debug\QuoteClient.exe.config
+C:\Documents and Settings\rituraj.singh\Desktop\QuoteClient\QuoteClient\obj\Debug\QuoteClient.exe
+C:\Documents and Settings\rituraj.singh\Desktop\QuoteClient\QuoteClient\obj\Debug\QuoteClient.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\QuoteClient\QuoteClient\bin\Debug\quoteenginedb.sdf
+C:\Documents and Settings\rituraj.singh\Desktop\QuoteClient\QuoteClient\bin\Debug\QuoteClient.exe
+C:\Documents and Settings\rituraj.singh\Desktop\QuoteClient\QuoteClient\bin\Debug\QuoteClient.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\QuoteClient\QuoteClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rituraj.singh\Desktop\QuoteClient\QuoteClient\obj\Debug\QuoteClient.Form1.resources
+C:\Documents and Settings\rituraj.singh\Desktop\QuoteClient\QuoteClient\obj\Debug\QuoteClient.Properties.Resources.resources
+C:\Documents and Settings\rituraj.singh\Desktop\QuoteClient\QuoteClient\obj\Debug\QuoteClient.csproj.GenerateResource.Cache

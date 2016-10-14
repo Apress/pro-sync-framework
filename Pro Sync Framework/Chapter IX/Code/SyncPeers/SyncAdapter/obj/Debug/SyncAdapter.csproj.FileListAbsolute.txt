@@ -1,0 +1,10 @@
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncAdapter\bin\Debug\SyncAdapter.dll
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncAdapter\bin\Debug\SyncAdapter.pdb
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncAdapter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncAdapter\obj\Debug\SyncAdapter.dll
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncAdapter\obj\Debug\SyncAdapter.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter X\Code\SyncPeers\SyncAdapter\bin\Debug\SyncAdapter.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter X\Code\SyncPeers\SyncAdapter\bin\Debug\SyncAdapter.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter X\Code\SyncPeers\SyncAdapter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter X\Code\SyncPeers\SyncAdapter\obj\Debug\SyncAdapter.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter X\Code\SyncPeers\SyncAdapter\obj\Debug\SyncAdapter.pdb

@@ -1,0 +1,9 @@
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncPeers\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncPeers\obj\Debug\SyncPeers.Properties.Resources.resources
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncPeers\obj\Debug\SyncPeers.csproj.GenerateResource.Cache
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncPeers\bin\Debug\SyncPeers.exe
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncPeers\bin\Debug\SyncPeers.pdb
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncPeers\obj\Debug\SyncPeers.exe
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncPeers\obj\Debug\SyncPeers.pdb
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncPeers\obj\Debug\SyncPeers.ReplicaContent.resources
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncPeers\obj\Debug\SyncPeers.SyncForm.resources

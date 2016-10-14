@@ -1,0 +1,12 @@
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncPeerDataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncPeerDataHelper\bin\Debug\SyncPeerDataHelper.dll.config
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncPeerDataHelper\bin\Debug\SyncPeerDataHelper.dll
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncPeerDataHelper\bin\Debug\SyncPeerDataHelper.pdb
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncPeerDataHelper\obj\Debug\SyncPeerDataHelper.dll
+C:\Documents and Settings\rituraj.singh\My Documents\Visual Studio 2005\Projects\SyncPeers\SyncPeerDataHelper\obj\Debug\SyncPeerDataHelper.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter X\Code\SyncPeers\SyncPeerDataHelper\bin\Debug\SyncPeerDataHelper.dll.config
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter X\Code\SyncPeers\SyncPeerDataHelper\bin\Debug\SyncPeerDataHelper.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter X\Code\SyncPeers\SyncPeerDataHelper\bin\Debug\SyncPeerDataHelper.pdb
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter X\Code\SyncPeers\SyncPeerDataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter X\Code\SyncPeers\SyncPeerDataHelper\obj\Debug\SyncPeerDataHelper.dll
+C:\Documents and Settings\rituraj.singh\Desktop\Sync\Work in progress\Chapter X\Code\SyncPeers\SyncPeerDataHelper\obj\Debug\SyncPeerDataHelper.pdb
